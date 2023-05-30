@@ -1,1 +1,1 @@
-@import "{{ Merlot }}";
+@import "{{Merlot}}";
