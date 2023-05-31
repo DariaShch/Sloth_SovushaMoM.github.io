@@ -12,4 +12,32 @@
 <h3>Стрелки</h3>
   Самый распространнёный тип войск среди игроков. Юниты этого типа получают урон самыми последними последними. Сложность прокачки - лёгкая.
 </details>
-
+<details><summary>Прокачка героев</summary>
+ ...
+</details>
+<details><summary>Еженедельные ивенты</summary>
+<details><summary>Чётная неделя</summary>
+  ...
+ </details>
+<details><summary>Нечётная неделя</summary>
+  ...
+ </details>
+</details>
+<details><summary>Славный владыка</summary>
+  ...
+ </details>
+<details><summary>Всеобщий сбор</summary>
+  ...
+ </details>
+<details><summary>Обсидиановые войны</summary>
+  ....
+ </details>
+ <details><summary>Игры престолов</summary>
+  ....
+ </details>
+ <details><summary>Доблестное завоевание</summary>
+  ....
+ </details>
+ <details><summary>Ферма</summary>
+  ....
+ </details>
